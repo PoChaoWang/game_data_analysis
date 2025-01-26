@@ -1,3 +1,5 @@
+# You can view the analysis methods and results in notebook.ipynb.
+
 ## Data Source:
 
 Game company data
